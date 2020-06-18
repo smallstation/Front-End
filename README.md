@@ -1,28 +1,13 @@
-这里整理收集了 GitHub上几乎所有优秀的前端项目，包括工具，优质资源，测试工具，框架，动画，编译工具，数据可视化等等近100个项目，分享给大家学习
-codepen
-一 个在线编辑前端项目的网站，其中有一些前端大神的作品，也有很多令人惊艳的前端效果，可以浏览和下载使用 。 
- 
+本文用于收集GitHub优秀的前端项目，包括工具，优质资源，测试工具，框架，动画，编译工具，数据可视化等等，分享学习。
 
-docschina
-印记中文网收集了由社区翻译的比较流行的前端相关框架、工具的中文版文档。为学习一些新的框架扫平了语言障碍。
+codepen：一个在线编辑前端项目的网站，其中有一些前端大神的作品，也有很多令人惊艳的前端效果，可以浏览和下载使用 。 
+docschina：印记中文网收集了由社区翻译的比较流行的前端相关框架、工具的中文版文档。为学习一些新的框架扫平了语言障碍。
+toby：超级赞的收集与协作管理书签的chrome插件，前端开发应该都会用chrome。全球超过10W+的用户。 
+microjs：可以让你选择微型的js类库的网站，该网站里的库都是压缩后不大于5KB的，非常实用，该网站的资源都托管到了github。
+plainjs：该仓库都是用原生js写的插件和组件，非常实用，该网站的资源都托管到了github。
 
-
-toby
-超级赞的收集与协作管理书签的chrome插件，前端开发应该都会用chrome。全球超过10W+的用户。 
-
-
-microjs
-可以让你选择微型的js类库的网站，该网站里的库都是压缩后不大于5KB的，非常实用，该网站的资源都托管到了github。
-
-
-plainjs  
-该仓库都是用原生js写的插件和组件，非常实用，该网站的资源都托管到了github。
-
-
-
-综合/资源
-
-●   frontend-dev-bookmarks 一个巨大的前端开发资源清单  star: 24705
+#### 综合/资源
+●  frontend-dev-bookmarks 一个巨大的前端开发资源清单  star: 24705
 ●  Awsome-Front-End-learning-resource github最全的前端资源汇总仓库  star: 4158
 ●  mobile-web-favorites 移动端H5开发经验、资源、以及踩坑汇总  star: 1307
 ●  Front-end-tutorial 最全的资源教程-前端涉及的所有知识体系  star: 3667
@@ -35,11 +20,7 @@ plainjs
 ●  Blog 前端大牛的博文，优质文章  star: 7146
 ●  Best-App 收集&推荐优秀的 Apps/硬件/技巧/周边等（与前端无关）  star: 11578
 
-
-
-
-构建工具/预编译
-
+#### 构建工具/预编译
 ●  parcel 一个零配置的新一代前端构建工具，识别各种常用类型文件，最优加载模块，代码拆包等，非常值得尝试的一款打包工具 recommand star: 26158
 ●  webpack 一个模块打包工具，你可以使用webpack管理你的模块依赖，并编绎输出模块们所需的静态文件 recommand star: 43589
 ●  gulp 基于node.js流构建系统，只有原生几个api，和庞大的插件生态，使用非常简单  star: 30196
@@ -51,9 +32,7 @@ plainjs
 ●  node-sass 动态CSS预编语言, 并有拥有强大sass compass的生态圈，可以直接引入并使用，sass是由ruby编写的，node-sass是node重构版本，方便npm直接使用  star: 5445
 ●  postcss 用js插件来对css样式文件，进行转换、预编译等操作，并且实现了模块化，支持非常多插架 recommand star: 19215
 
-
-测试/工具
-
+#### 测试/工具
 ●  mocha 一个简单、灵活有趣的 javascript 测试框架，用于 nodejs 和浏览器上的 js 应用测试  star: 16125
 ●  casperjs 一个基于 phantomjs 的开源导航脚本和测试工具  star: 7242
 ●  karma 自动化完成单元测试，允许你在多个浏览器里执行js代码。让你的 tdd 变得简单，快速，有趣  star: 10128
@@ -68,9 +47,7 @@ plainjs
 ●  headroom.js 是强大的基准测试库，几乎适用于所有js平台。支持high-resolution定时器，并返回重要的统计结果  star: 9905
 ●  Vorlonjs 远程调试移动端页面的工具，有和PC页面调试一致的体验。比如native app内嵌h5页面、手机h5页面等。国内也一个相同功能的软件moblie debug。star: 2666
 
-
-canvas/数据可视化
-
+#### canvas/数据可视化
 ●  d3 一个基于数据操作文档的js数据可视化框架，最流行的数据可视化库之一  star: 78354
 ●  incubator-echarts 基于canvas的纯js图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表  star: 29730
 ●  Chart.js 使用canvas标签的简易html5图表  star: 39063
@@ -81,9 +58,7 @@ canvas/数据可视化
 ●  highcharts 基于svg的javascript图表框架  star: 7900
 ●  g6 是一个由纯 JavaScript 编写的关系图基础技术框架。开发者能基于 G6 进行关系图的分析视图和编辑视图进行快速的二次开发  star: 2795
 
-
-动画
-
+#### 动画
 ●  animate.css 一个跨浏览器的css动画库，实现了多种css3动画效果，简单易用易上手  star: 53850
 ●  anime 极小的js动画引擎，支持 css3、svg 的动画效果，能编写出各种复杂动画效果，gzip后6K左右  star: 23042
 ●  move.js 极小的js库,支持css3的动画效果,非常简单优雅  star: 4370
@@ -93,9 +68,7 @@ canvas/数据可视化
 ●  parallax 轻量级的的视差引擎，能对智能设备的方向作出反应  star: 13271
 ●  velocity 是一款和jQuery的 $.animate() 有相同API的动画引擎，很适合移动端的动画开发，还打包了颜色动画，转换，循环，easing效果，类动画、滚动等功能  star: 15056
 
-
-插件
-
+#### 插件
 ●  front-end-plugins 前端常用插件汇总  star: 755
 ●  awesome-browser-extensions-for-github 收集关于github上优秀的浏览器插件，非常实用  star: 1292
 ●  video.js 开源的html5和flash视频播放器，支持自定义进度条、按钮以及工具栏的底色  star: 22351
@@ -104,9 +77,7 @@ canvas/数据可视化
 ●  superslides 致力于解决网站大部分特效展示问题，网站上常用的焦点图/幻灯片，tab标签切换，图片滚动，无缝滚动等  star: 1478
 ●  github-hovercard github 鼠标悬停显示用户，仓库等摘要信息  star: 1164
 
-
-框架、库和组件
-
+#### 框架、库和组件
 ●  ice 阿里飞冰，从此再也不担心管理系统的开发。(个人觉得简单项目还是可以，复杂的做不了)  star: 7339 view
 ●  polymer 以一切皆组件、最少化代码量、最少框架限制为设计理念的web组件构建框架  star: 20117
 ●  impress.js 创建令人兴奋的演示。使用css3的转换和过渡，这个库允许你创建令人印象深刻的演示文稿  star: 33881
@@ -131,9 +102,7 @@ canvas/数据可视化
 ● ua-device 史上最全面的userAgent解析库，百度FEX出品  star: 829
 ● share.js 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣等  star: 2240
 
-
-移动端
-
+#### 移动端
 ●  fastclick 触摸UI上的消除点击延迟js库  star: 16750
 ●  mui 最接近原生APP体验的高性能框架  star: 4033
 ●  SUI-Mobile 由阿里巴巴国际UED前端出品的移动端UI库，轻量精美  star: 5740
@@ -146,9 +115,7 @@ canvas/数据可视化
 ●  zepto 一款面向移动端设备、api与jquery兼容的基础库  star: 13987
 ●  Swiper 纯js打造的滑动特效插件，面向手机、平板电脑等移动终端。能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果  star: 17392
 
-
-Node.js相关
-
+#### Node.js相关
 ●  awesome-nodejs 关于node包和资源的收集  star: 25729
 ●  node-lessons nodejs包教不包会  star: 13468
 ●  node123 node.js中文资料导航  star: 2936
@@ -162,17 +129,13 @@ Node.js相关
 ●  hackathon-starter 一个非常棒的noder初始项目，拥有完整系统架构与用户系统（第三方登录）  star: 24457
 ●  nest 完全使用typescript编写的服务端框架，相比传统nodejs项目，可维护性、健壮性、可重构性大大加强。号称node版的spring boot  star: 8147 view
 
-
-模板引擎
-
+#### 模板引擎
 ●  pug 基于nodejs的强壮的、优雅的功能强大的模版引擎，相当简洁  star: 17150
 ●  handlebars.js 一个js语义模板库，能让你轻松高效的编写语义化模板  star: 13673
 ●  artTemplate 性能卓越的js模板引擎  star: 7287
 ●  ejs tj大神写的嵌入javascript的模板引擎  star: 3985
 
-
-WEB编辑器
-
+#### WEB编辑器
 ●  monaco-editor 微软开发的vs code编辑器的核心编辑组件，可以在浏览器中使用使用的代码编辑器，并支持各种语言高亮，功能相当齐全，制作代码编辑器首选  star: 10899 view
 ●  CodeMirror 一个轻量级的代码编辑器，核心代码相当的少，同样支持非常多的编程语言的编辑。star: 15450 view
 ●  editor 下一代的高度定制化的流览器网页内容编辑器，是基于react开发  star: 6990 view
@@ -186,9 +149,7 @@ WEB编辑器
 ●  simplemde-markdown-editor 极简版的markdown编辑器，非常轻量级，可以用于简单的md编辑场景  star: 5515 view
 ●  tui.editor 一款功能非常强大的markdown编辑器，有点想"有道云笔记"的md编辑器。非常方便添加自定义功能。recommand star: 7068 view
 
-
-React相关
-
+#### React相关
 ●  react-developer-roadmap react的学习路线图2018版  star: 8779
 ●  react-in-patterns react开发设计模式  star: 9903
 ●  react-bits react最佳实践，有你想知道  star: 9323
@@ -212,9 +173,7 @@ React相关
 ●  ink 用react开发命令行交互工具，很酷  star: 6252
 ●  ag-grid 非常强大的table组件，完全满足以数据为主的数据展示表格  star: 4231
 
-
-面试相关
-
+#### 面试相关
 ●  FE-interview 收集的前端面试题和答案  star: 3722
 ●  resources 知名互联网企业内推，需要换工作的小伙伴擦亮眼睛了  star: 1644
 ● CS-Interview-Knowledge-Map 一份前端面试资源，作者很用心，还配有专门的网页  star: 10690 view
@@ -230,18 +189,14 @@ React相关
 ●  iCSS 一系列css有趣的话题，有开发中常用css代码gists  star: 3807
 ●  css-doodle 一个用css绘制图形的web组件。非常酷！请看demo作品  star: 1201 view
 
-
-编程软实力
-
+#### 编程软实力
 ●  fks 前端技能汇总，包含前端知识架构，后端知识，运维知识，书籍推荐等  star: 13015
 ●  javascript-algorithms 包含了多种基于js的算法与数据结构,每种算法都有自己的README说明与YouTube视频  star: 35654 view
 ●  CS-Notes 计算机相关的各种记录，涉及到编程的方方面面  star: 33697
 ●  math-as-code 学术论文可能会吓着自学游戏和图形的程序猿,通过对比数学符号和JavaScript代码来帮助开发者更容易了解数学符号  star: 6306 view
 ●  free-programming-books-zh_CN 免费的计算机编程类中文书籍,不得不说，现在这个时代太好了。star: 37842
 
-
-浏览器兼容方案
-
+#### 浏览器兼容方案
 ●  es6-shim 提供兼容性垫片，使ES6能兼容于传统的js引擎  star: 2646
 ●  Modernizr 用来检测浏览器功能支持情况的js库,可以检测18项css3功能以及40多项关于h5的功能  star: 22910
 ●  html5shiv 主要解决html5提出的新的元素不被ie6-9识别  star: 9085
